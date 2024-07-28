@@ -20,7 +20,7 @@
 
 
 
-## 🎯 Career Goals:
+## 🎯 Goals:
 
 - 🚀 Aspiring to become a proficient **Software Technical Architect**.
 - 👑 Conquer the world
