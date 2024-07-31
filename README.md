@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Software Engineer skilled in Golang, JavaScript, and Node.js</h3>
 
 <p align="center">
-<img src="https://img.shields.io/github/followers/anandaadityaputra?label=Follow&style=social" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/anandaadityaputra?label=Stars" alt="GitHub stars" />
+<img src="https://img.shields.io/github/followers/aap-11?label=Follow&style=social" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/aap-11?label=Stars" alt="GitHub stars" />
 </p>
 
 
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=anandaadityaputra&label=Profile%20views&color=0e75b6&style=flat" alt="anandaadityaputra" />
+<img src="https://komarev.com/ghpvc/?username=aap-11&label=Profile%20views&color=0e75b6&style=flat" alt="anandaadityaputra" />
 </p>
 
 
